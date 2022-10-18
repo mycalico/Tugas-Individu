@@ -17,3 +17,13 @@ Pertanyaan :
 9. Jelaskan perbedaan estimasi dan klastering !
 10. Jelaskan perbedaan supervised dan unsupervised learning !
 11. Sebutkan tahapan utama proses data mining !
+
+```
+Jawaban
+```
+
+![image](https://user-images.githubusercontent.com/105371183/196447784-c31ca02d-4037-4009-b9b0-25fc62dcde56.png)
+
+![image](https://user-images.githubusercontent.com/105371183/196448315-15018d0a-6594-417f-987e-9a0302c96869.png)
+
+![image](https://user-images.githubusercontent.com/105371183/196448786-c25bc62b-0c0f-46cb-a6ba-7c101b77b569.png)
